@@ -1,0 +1,7 @@
+{
+  "name": "DMC3 Arabic Localization",
+  "version": "0.1.0",
+  "target": "Devil May Cry 3 Special Edition (Nintendo Switch)",
+  "emulator": "MeloNX",
+  "status": "initialization"
+}
